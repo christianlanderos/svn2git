@@ -1,3 +1,9 @@
 prueba de commit 
 
-modificación para otro commit
+hola vienvenido al sistema
+
+Instruciones:
+
+1. abrir
+2. leer
+3 cerrar
